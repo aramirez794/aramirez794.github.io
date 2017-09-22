@@ -20,9 +20,15 @@ After playing for a couple of hours I found a couple of functions that testers p
 takes place mostly in dark eerie rooms so having to test out the brightness of the candle would have been a function that a
 tester would have looked at making sure it isnt too bright or too dark but just enough to light the player's way. 
 
+
+
 2. Another function that a tester probably would have tested is the sprint speed of the character. There are scenarios
 when you're running away from an enemy and i felt at points the player was too slow, but over time I found that I just had to time my escape route perfectly in order to escape the enemies grasp, so having to test the speed of the character was probably another 
 function that was tested.
+
+
+
+<https://aramirez794.github.io/Images/Little-Nightmares-review-2.jpg>
 
 3. And lastly another function that was tested was the enemies AI awareness for the player. It's kinda hard to look 
 around the room when there's an enemy wandering around and if you tend to walk towards open space in the game, the enemy can
@@ -35,12 +41,16 @@ AI awarness very high allows the player to be more stealthy and careful.
 On the 3rd chapter of the game, I was walking down a hall until I noticed some sort of glitch on the wall of the hallway 
 which made the wall seem to have a giant hole in the wall.
 
+<https://aramirez794.github.io/Images/20170921215937.jpg>
+
 
 
 
 The glitch would only happen if you passed a certain part in front of the wall, other than that the wall would just look normal.
 
 
+
+<https://aramirez794.github.io/Images/20170921215944.jpg>
 
 # Final Thoughts
 
