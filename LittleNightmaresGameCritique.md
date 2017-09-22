@@ -23,7 +23,7 @@ tester would have looked at making sure it isnt too bright or too dark but just 
 
 
 2. Another function that a tester probably would have tested is the sprint speed of the character. There are scenarios
-when you're running away from an enemy and i felt at points the player was too slow, but over time I found that I just had to time my escape route perfectly in order to escape the enemies grasp, so having to test the speed of the character was probably another 
+when you're running away from an enemy and I felt at points the player was too slow, but over time I found that I just had to time my escape route perfectly in order to escape the enemies grasp, so having to test the speed of the character was probably another 
 function that was tested.
 
 
