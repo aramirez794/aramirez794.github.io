@@ -18,7 +18,7 @@ After playing for a couple of hours I found a couple of functions that testers p
 
 1. In the game the player is able to light up a candle in order to help her view her surroundings since the overall game 
 takes place mostly in dark eerie rooms so having to test out the brightness of the candle would have been a function that a
-tester would have looked at making sure it isnt too bright or too dark but just enough to light the player's way.
+tester would have looked at making sure it isnt too bright or too dark but just enough to light the player's way. 
 
 2. Another function that a tester probably would have tested is the sprint speed of the character. There are scenarios
 when you're running away from an enemy and i felt at points the player was too slow, but over time I found that I just had to time my escape route perfectly in order to escape the enemies grasp, so having to test the speed of the character was probably another 
