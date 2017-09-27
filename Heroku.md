@@ -1,4 +1,4 @@
- # Heroku
+# Heroku
 
    Heroku is a useful tool to implement CI solutions since it adds pipelines to your project which are
   groups of apps that share the same codebase that can help each users make commits and changes
