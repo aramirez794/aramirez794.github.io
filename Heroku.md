@@ -1,8 +1,9 @@
-# Heroku
+ # Heroku
 
-   Heroku is useful tool to implement CI solutions such as adding pipelines which can help
-  to help organize a project for production. A great thing about Heroku is that we can connect
-  our Github accounts and run tests on every push to that we do on GitHub with Heroku CI.
+   Heroku is a useful tool to implement CI solutions since it adds pipelines to your project which are
+  groups of apps that share the same codebase that can help each users make commits and changes
+  to help organize and speed up the project for production. A great thing about Heroku is that we can connect our Github 
+  accounts and run tests on every push to that we do on GitHub with Heroku CI.
   
   
 # Languages and Debugging
