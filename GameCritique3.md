@@ -6,7 +6,7 @@ Fortnite is a co-op sandbox survival video game
 ## Platform
 Microsoft Windows, macOS, Playstation 4 and Xbox one
 ## Game Rating
-metacritic score 
+72 metacritic score reviewed on the Playstation 4
 ## Publisher
 Epic Games
 ## Developer
