@@ -9,7 +9,7 @@ Microsoft Windows, macOS, Playstation 4 and Xbox one
 ## Publisher
 Epic Games
 ## Developer
-Epic Games and People Can FLy
+Epic Games and People Can Fly
 ## Publishing Date
 2018
 # Synopsis
