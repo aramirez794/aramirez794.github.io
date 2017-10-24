@@ -36,11 +36,7 @@
 | 4 |If the file doesn’t exist it must be created. |The game can’t write to a file that’s not there | |			
 | 5 |The  file  must  be  saved  in  a particular  format  and  include  all  the  game data that needs to be read back in at a later time so the game can continue |If the file isn’t in a certain format then the game won’t be able to load 
 all the information back in at a later date | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+		
 
 ## Overall Test Status:
 
