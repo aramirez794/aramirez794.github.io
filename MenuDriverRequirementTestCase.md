@@ -1,4 +1,4 @@
-# Test Case 
+ Test Case 
 
 ## Test Details
 
@@ -28,9 +28,7 @@
 | --- | --- | --- | --- |
 | 1 |Load the appropriate menu when asked | Make sure whatever menu the user selects loads properly|This  way  the  game  will  always  show  the  correct  menu  at  the  right 
 time |			
-| 2 |Keep track of where the selector is |Making sure the user can keep track of the mouse/tracker | This  way  the  game  knows 
-what  option  is  being  picked  from  which 
-menu.|						
+| 2 |Keep track of where the selector is |Making sure the user can keep track of the mouse/tracker | This  way  the  game  knows what option  is  being  picked  from  which menu.|						
 
 ## Overall Test Status:
 
