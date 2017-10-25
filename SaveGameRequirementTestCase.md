@@ -7,15 +7,15 @@
 * Test Case Name:
   * Save Game Requirement
 * Component: 
-  * 
+  * Save in-gameplay data 
 * Test Case Designer:
-  * Name
+  * Andres Ramirez
 * Creation Date:
-  * Date
+  * 10/24/2017
 * Modified By:
-  * Name
+  * Andres Ramirez
 * Modified Date:
-  * Date
+  * 10/24/2017
 * Requirements Covered:
   * 1. Only works in story mode.
   * 2. The file name for the game must be valid so it can be read back  in at a later time.
@@ -39,7 +39,7 @@
 
 ## Overall Test Status:
  
-There are couple of problems that still happen when trying to save a game, so this function should still be worked on and tested later.
+Completed
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
