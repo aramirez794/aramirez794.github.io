@@ -30,7 +30,7 @@ Test Case
 | 2 |Keep track of where the selector is |Making sure the user can keep track of the mouse/tracker | This  way  the  game  knows what option  is  being  picked  from  which menu.|						
 
 ## Overall Test Status:
-
+Completed
 
 
 ## Run History:
