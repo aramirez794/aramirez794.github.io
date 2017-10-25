@@ -44,7 +44,7 @@ Completed
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10/18 |Bob |(√) |			
+| 2 |10/19 |Bob |(√) |			
+| 3 |10/23 |Bob |(√) |			
 
