@@ -26,7 +26,7 @@
 * Test Description/Purpose:
   * Testing to see if saved game function works while in story mode.
 * Pre-Test Conditions:
-  * Description
+  * None
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
