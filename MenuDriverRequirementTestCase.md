@@ -7,22 +7,22 @@ Test Case
 * Test Case Name:
   * Menu Driver Requirements
 * Component: 
-  * Description
+  * Main menu
 * Test Case Designer:
-  * Name
+  * Andres Ramirez
 * Creation Date:
-  * Date
+  * 10/24/2017
 * Modified By:
-  * Name
+  * Andres Ramirez
 * Modified Date:
-  * Date
+  * 10/24/2017
 * Requirements Covered:
   * 1. Load the appropriate menu when asked
   * 2. Keep track of where the selector is.
 * Test Description/Purpose:
   *  Making sure everything for the Main Menu screen is working and loading properly.
 * Pre-Test Conditions:
-  * Description
+  * None
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Completed
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10/17 |Bob |(√) |			
+| 2 |10/19 |Bob |(√) |			
+| 3 |10/23 |Bob |(√) |			
 
