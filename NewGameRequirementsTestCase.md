@@ -17,9 +17,9 @@
 * Modified Date:
   * 10/24/2017
 * Requirements Covered:
-  * Description
+  * Creating a new game in a story mode, all of the variables should be correct in order to make a new game data, then from there it should allow player to select a character.
 * Test Description/Purpose:
-  * Description
+  * To see if new game functionality works.
 * Pre-Test Conditions:
   * None
 ## Test Steps: 
