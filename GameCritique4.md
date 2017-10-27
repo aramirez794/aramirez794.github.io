@@ -44,7 +44,7 @@ briefcase and complete the level, and lastly complete the level without killing 
 side objectives makes the gameplay a bit more fun, it allows the player to play the game 
 a bit longer and it adds more challenges to the level. 
 
-https://aramirez794.github.io/Images/hitman-go-2.png
+https://aramirez794.github.io/Images/hitman-go-2.jpg.png
 
 ## Playability
 ### Single/Multiplayer
