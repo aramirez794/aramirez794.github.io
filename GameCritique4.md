@@ -14,20 +14,20 @@ Square Enix Montreal
 ## Publishing Date
 April 17, 2014
 # Synopsis
-https://aramirez794.github.io/Images/Hitman1.jpg
 
 Hitman Go is a turned-based puzzle video game which uses elements from the original Hitman
 video game series. Each level is layed out with a grid pattern that the player must use to 
 complete each level.
 
+https://aramirez794.github.io/Images/Hitman1.jpg
+
 # Game Play Summary
-https://aramirez794.github.io/Images/Hitman_GO_shot_doc.jpg
 
 Each level will require the player to complete a main objective while there are some levels 
 that would require the player to assassinate a specific target. In order to dispatch a target, the
 player must move into the space that the enemy is occupying, similar to a game of chess. 
 
-https://aramirez794.github.io/Images/Hitman-Go-3.png
+https://aramirez794.github.io/Images/Hitman_GO_shot_doc.jpg
 
 There are levels that have items such as disguises, a rock or a sniper rifle that you can use to your 
 advantage in order to progress through the level. Disguising youself as a guard will help you 
@@ -37,12 +37,14 @@ rock, after throwing the rock, that action would cause nearby enemies to be aler
 go and inspect the area leaving their post that they're guarding. And of course with the sniper 
 rifle you can just easily dispatch an enemy from a distance.
 
-https://aramirez794.github.io/Images/hitman-go-2.png
+https://aramirez794.github.io/Images/Hitman-Go-3.png
 
 Each level also have side challenges such as completing the level with a few turns, collect a 
 briefcase and complete the level, and lastly complete the level without killing anyone. Having these 
 side objectives makes the gameplay a bit more fun, it allows the player to play the game 
 a bit longer and it adds more challenges to the level. 
+
+https://aramirez794.github.io/Images/hitman-go-2.png
 
 ## Playability
 ### Single/Multiplayer
