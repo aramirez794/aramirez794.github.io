@@ -37,6 +37,8 @@ rock, after throwing the rock, that action would cause nearby enemies to be aler
 go and inspect the area leaving their post that they're guarding. And of course with the sniper 
 rifle you can just easily dispatch an enemy from a distance.
 
+https://aramirez794.github.io/Images/hitman-go-2.png
+
 Each level also have side challenges such as completing the level with a few turns, collect a 
 briefcase and complete the level, and lastly complete the level without killing anyone. Having these 
 side objectives makes the gameplay a bit more fun, it allows the player to play the game 
@@ -52,6 +54,8 @@ X - Select items and spot on where you want to move
 # Bugs
 None
 # Final Thoughts
+https://aramirez794.github.io/Images/hitman2.jpg
+
 After playing Hitman Go, I was impressed on the approach that they came out for this game since most 
 of the Hitman series games are in an open world game and Hitman Go is more of a top down board game. 
 Having elements of Hitman such as the distractions and weapons kept the gameplay fun and discovering 
