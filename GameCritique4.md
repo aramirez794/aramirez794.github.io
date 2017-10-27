@@ -40,6 +40,12 @@ a bit longer and it adds more challenges to the level.
 ### Controls
 
 # Bugs
-What bugs happened during your critique.
+None
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+After playing Hitman Go, I was impressed on the approach that they came out for this game since most 
+of the Hitman series games are in an open world game and Hitman Go is more of a top down board game. 
+Having elements of Hitman such as the distractions and weapons kept the gameplay fun and discovering 
+each new "board/map" was fun and made me anxious to see what the next puzzle would be like. There were
+times that I got stuck on a level and I wasn't too sure on what I had to do, so I was able to skip that 
+level and continue onto the next level and I could return back to the level that I couldnt complete at 
+a later time.
