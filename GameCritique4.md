@@ -23,8 +23,9 @@ Each level will require the player to complete a main objective while there are 
 that would require the player to assassinate a specific target. In order to dispatch a target, the
 player must move into the space that the enemy is occupying, similar to a game of chess. 
 
-There are levels that have items such as a rock or a sniper rifle that you can use to your 
-advantage in order to progress through the level. Using the rock will cause a distaction so
+There are levels that have items such as disguises, a rock or a sniper rifle that you can use to your 
+advantage in order to progress through the level. Disguising youself as a guard will help you 
+pass by a guarded area undetected. Using the rock will cause a distaction so
 your're able to select a certain distance from your players location on the grid to throw the
 rock, after throwing the rock, that action would cause nearby enemies to be alerted and they'll
 go and inspect the area leaving their post that they're guarding. And of course with the sniper 
