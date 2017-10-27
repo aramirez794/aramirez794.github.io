@@ -37,6 +37,8 @@ a bit longer and it adds more challenges to the level.
 
 ## Playability
 ### Single/Multiplayer
+Hitman Go only supports single player.
+
 ### Controls
 
 # Bugs
