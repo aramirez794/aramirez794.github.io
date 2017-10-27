@@ -21,6 +21,8 @@ video game series. Each level is layed out with a grid pattern that the player m
 complete each level.
 
 # Game Play Summary
+https://aramirez794.github.io/Images/Hitman_GO_shot_doc.jpg
+
 Each level will require the player to complete a main objective while there are some levels 
 that would require the player to assassinate a specific target. In order to dispatch a target, the
 player must move into the space that the enemy is occupying, similar to a game of chess. 
