@@ -52,7 +52,9 @@ Hitman Go only supports single player.
 
 ### Controls
 Directional button/Analog - move player, select area to move
+
 X - Select items and spot on where you want to move
+
 # Bugs
 None
 # Final Thoughts
