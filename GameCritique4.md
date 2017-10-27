@@ -14,8 +14,8 @@ Square Enix Montreal
 ## Publishing Date
 April 17, 2014
 # Synopsis
-
 https://aramirez794.github.io/Images/Hitman1
+
 Hitman Go is a turned-based puzzle video game which uses elements from the original Hitman
 video game series. Each level is layed out with a grid pattern that the player must use to 
 complete each level.
