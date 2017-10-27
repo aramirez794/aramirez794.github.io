@@ -27,6 +27,8 @@ Each level will require the player to complete a main objective while there are 
 that would require the player to assassinate a specific target. In order to dispatch a target, the
 player must move into the space that the enemy is occupying, similar to a game of chess. 
 
+https://aramirez794.github.io/Images/Hitman-Go-3.png
+
 There are levels that have items such as disguises, a rock or a sniper rifle that you can use to your 
 advantage in order to progress through the level. Disguising youself as a guard will help you 
 pass by a guarded area undetected. Using the rock will cause a distaction so
