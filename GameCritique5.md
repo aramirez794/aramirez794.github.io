@@ -12,9 +12,11 @@ Square Enix
 ## Developer
 Square Enix Montreal
 ## Publishing Date
-When did they make it?
+August 27, 2015
 # Synopsis
-Game premise or short one to two sentence overview
+You get to control Laura Croft in a puzzle based board game while you use the environment to your advantage to avoid 
+enemies and obstacles to complete each level.
+
 
 # Game Play Summary
 ## Playability
