@@ -4,7 +4,7 @@ Laura Croft Go
 ## Game Type
 Turned-Based puzzle video game
 ## Platform
-What systems do they play on besides the PC master race?
+Microsoft Windows, Android, Windows Phone, Playstation 4, Linex, Playstion Vita, iOS.
 ## Game Rating
 metacritic score 
 ## Publisher
