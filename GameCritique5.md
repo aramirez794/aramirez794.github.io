@@ -21,9 +21,11 @@ enemies and obstacles to complete each level.
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
-### Controls
+This game only supports single player.
 
+### Controls
+You move the player with the analog stick. The movement is responsive and smooth. 
 # Bugs
-What bugs happened during your critique.
+None.
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
