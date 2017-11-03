@@ -1,6 +1,6 @@
 # Information
 ## Game Title
-https://aramirez794.github.io/Images/maxresdefault.jpg
+https://aramirez794.github.io/Images/maxresdefault.jpg 
 
 Lara Croft Go
 ## Game Type
