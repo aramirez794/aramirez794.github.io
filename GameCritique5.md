@@ -1,6 +1,6 @@
 # Information
 ## Game Title
-Laura Croft Go
+Lara Croft Go
 ## Game Type
 Turned-Based puzzle video game
 ## Platform
@@ -14,7 +14,7 @@ Square Enix Montreal
 ## Publishing Date
 August 27, 2015
 # Synopsis
-You get to control Laura Croft in a puzzle based board game while you use the environment to your advantage to avoid 
+You get to control Lara Croft in a puzzle based board game while you use the environment to your advantage to avoid 
 enemies and obstacles to complete each level.
 
 
@@ -28,4 +28,7 @@ You move the player with the analog stick. The movement is responsive and smooth
 # Bugs
 None.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+The overall gameplay was similar to the other game that I critiqued on which was Hitman Go and it was 
+a pretty cool relaxing game to play. The gameplay's music is very ambient and calm and there are times 
+when you can hear the wind gustling through the bushes and plants throughout the game. Controls felt
+very smooth and I was really digging the art style of the whole game.
