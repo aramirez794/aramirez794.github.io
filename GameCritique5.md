@@ -1,5 +1,6 @@
 # Information
 ## Game Title
+https://aramirez794.github.io/Images/maxresdefault.jpg
 Lara Croft Go
 ## Game Type
 Turned-Based puzzle video game
@@ -17,11 +18,15 @@ August 27, 2015
 You get to control Lara Croft in a puzzle based board game while you use the environment to your advantage to avoid 
 enemies and obstacles to complete each level.
 
+https://aramirez794.github.io/Images/Lara-Croft-GO-Bomber-Jacket-Windows-10-screenshot.jpg
+
 
 # Game Play Summary
 The objective of the game is to complete each puzzle while manuevering around enemies and using your environment 
 to your advantage to complete the level. While you're trying to complete the level, you can also collect itemes such as 
 Quartzes, Emerealds, fragments of a Gilded skull  and pieces of a snake which adds more longer gameplay.
+
+https://aramirez794.github.io/Images/dlc-3.jpg
 
 ## Playability
 ### Single/Multiplayer
@@ -32,6 +37,8 @@ You move the player with the analog stick. The movement is responsive and smooth
 # Bugs
 None.
 # Final Thoughts
+https://aramirez794.github.io/Images/go2.jpg
+
 The overall gameplay was similar to the other game that I critiqued on which was Hitman Go and it was 
 a pretty cool relaxing game to play. The gameplay's music is very ambient and calm and there are times 
 when you can hear the wind gustling through the bushes and plants throughout the game. Controls felt
