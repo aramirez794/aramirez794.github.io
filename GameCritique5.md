@@ -6,11 +6,11 @@ Turned-Based puzzle video game
 ## Platform
 Microsoft Windows, Android, Windows Phone, Playstation 4, Linex, Playstion Vita, iOS.
 ## Game Rating
-metacritic score 
+84
 ## Publisher
-who released this pile of code
+Square Enix
 ## Developer
-Who made this pile of code
+Square Enix Montreal
 ## Publishing Date
 When did they make it?
 # Synopsis
