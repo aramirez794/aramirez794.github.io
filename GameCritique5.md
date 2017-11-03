@@ -19,6 +19,10 @@ enemies and obstacles to complete each level.
 
 
 # Game Play Summary
+The objective of the game is to complete each puzzle while manuevering around enemies and using your environment 
+to your advantage to complete the level. While you're trying to complete the level, you can also collect itemes such as 
+Quartzes, Emerealds, fragments of a Gilded skull  and pieces of a snake which adds more longer gameplay.
+
 ## Playability
 ### Single/Multiplayer
 This game only supports single player.
