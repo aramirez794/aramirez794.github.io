@@ -14,4 +14,4 @@ Yes
 Yes
 
 ## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
-Yes, the language tha BizHawk uses is C#.
+Yes, the language that BizHawk uses is C#.
