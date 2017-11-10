@@ -21,6 +21,13 @@ with their meal, you must take their dirty dish and clean them in order to
 continue the level in a short amount of time.
 
 # Game Play Summary
+Each level you play will have a different effect on your gameplay since the levels
+have interactive environments, you can have a level where your playing in a kitchen,
+another level were your playing on a crowded street and also on a ship at sea. You're
+first started off with the customers order and then you proceed to gather the right 
+ingredients for that order. Some levels provide table counters where you can place
+extra ingredients and some other levels dont provide any counters so your given little 
+room to work with.
 ## Playability
 ### Single/Multiplayer
 ### Controls
