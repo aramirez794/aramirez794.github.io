@@ -12,9 +12,13 @@ Team 17
 ## Developer
 Ghost Town Games
 ## Publishing Date
-When did they make it?
+August 2, 2016
 # Synopsis
-Game premise or short one to two sentence overview
+Overcooked is a chaotic one to four multiplayer game where you play as a chef
+and your job is to fulfill the customers food order so you prepare their meals 
+using ingredients provided on the level you play. After a customer is finsihed 
+with their meal, you must take their dirty dish and clean them in order to 
+continue the level in a short amount of time.
 
 # Game Play Summary
 ## Playability
