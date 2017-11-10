@@ -1,8 +1,8 @@
 # Information
 ## Game Title
-Full title of the game.
+Overcooked
 ## Game Type
-The genre and play style of the game
+Cooking simulation game
 ## Platform
 What systems do they play on besides the PC master race?
 ## Game Rating
