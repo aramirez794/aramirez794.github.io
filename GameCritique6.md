@@ -8,9 +8,9 @@ PlayStation 4, Xbox One, Nintendo Switch and Microsoft Windows
 ## Game Rating
 78 
 ## Publisher
-who released this pile of code
+Team 17
 ## Developer
-Who made this pile of code
+Ghost Town Games
 ## Publishing Date
 When did they make it?
 # Synopsis
