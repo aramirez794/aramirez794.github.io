@@ -32,6 +32,9 @@ time, the customer will become upset and they'll leave which will affect your ov
 score.
 ## Playability
 ### Single/Multiplayer
+This game supports single and multiplayer but i'd highly reccommend playing with 
+your friends since you guys can work as a team and get the orders out alot faster and
+more organized.
 ### Controls
 
 # Bugs
