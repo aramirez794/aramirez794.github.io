@@ -39,7 +39,9 @@ more organized.
 Controls are very simple and straight forward.
 
 Move Player- Analog stick
+
 Dash - Circle
+
 Chop/Pickup - Square
 # Bugs
 None.
