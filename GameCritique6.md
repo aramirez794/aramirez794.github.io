@@ -46,4 +46,11 @@ Chop/Pickup - Square
 # Bugs
 None.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Overall gameplay is chaotic in such a fun way making every level a challenge and coming up
+with new strategies to complete the level comes with great satisfaction. I tried playing the 
+game by myself and I could barely get passed the 4th level, with me having to take care of all
+of the duties I was finding myself mixing up alot of orders and having alot of customers leave. 
+I was able to have my girlfriend play alongside with me and we were able to get passed alot farther
+than I originally had done by myself so working alongside teammates will help tremondously and this 
+games makes players communicate with each other in order to have a faster more organized workflow 
+for a higher overall score. 
