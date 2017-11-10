@@ -20,6 +20,8 @@ using ingredients provided on the level you play. After a customer is finsihed
 with their meal, you must take their dirty dish and clean them in order to 
 continue the level in a short amount of time.
 
+https://aramirez794.github.io/Images/Overcooked_BusyStreet.jpg
+
 # Game Play Summary
 Each level you play will have a different effect on your gameplay since the levels
 have interactive environments, you can have a level where your playing in a kitchen,
