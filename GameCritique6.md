@@ -36,8 +36,12 @@ This game supports single and multiplayer but i'd highly reccommend playing with
 your friends since you guys can work as a team and get the orders out alot faster and
 more organized.
 ### Controls
+Controls are very simple and straight forward.
 
+Move Player- Analog stick
+Dash - Circle
+Chop/Pickup - Square
 # Bugs
-What bugs happened during your critique.
+None.
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
