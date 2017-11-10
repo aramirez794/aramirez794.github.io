@@ -4,9 +4,9 @@ Overcooked
 ## Game Type
 Cooking simulation game
 ## Platform
-What systems do they play on besides the PC master race?
+PlayStation 4, Xbox One, Nintendo Switch and Microsoft Windows
 ## Game Rating
-metacritic score 
+78 
 ## Publisher
 who released this pile of code
 ## Developer
