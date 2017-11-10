@@ -20,7 +20,7 @@ using ingredients provided on the level you play. After a customer is finsihed
 with their meal, you must take their dirty dish and clean them in order to 
 continue the level in a short amount of time.
 
-https://aramirez794.github.io/Images/Overcooked_BusyStreet.jpg
+
 
 # Game Play Summary
 Each level you play will have a different effect on your gameplay since the levels
@@ -32,6 +32,10 @@ extra ingredients and some other levels dont provide any counters so your given 
 room to work with. If you dont complete the customer's order within a certain amount of 
 time, the customer will become upset and they'll leave which will affect your overall
 score.
+
+https://aramirez794.github.io/Images/Overcooked_BusyStreet.jpg
+
+https://aramirez794.github.io/Images/Overcooked_Ship.png
 ## Playability
 ### Single/Multiplayer
 This game supports single and multiplayer but i'd highly reccommend playing with 
