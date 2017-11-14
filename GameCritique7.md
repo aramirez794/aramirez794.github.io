@@ -19,6 +19,8 @@ Game premise or short one to two sentence overview
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
+This game only supports single player.
+
 ### Controls
 
 # Bugs
