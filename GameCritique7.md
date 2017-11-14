@@ -1,8 +1,8 @@
 # Information
 ## Game Title
-Full title of the game.
+The Witness
 ## Game Type
-The genre and play style of the game
+Puzzle, Maze, Open-World, Grid
 ## Platform
 What systems do they play on besides the PC master race?
 ## Game Rating
