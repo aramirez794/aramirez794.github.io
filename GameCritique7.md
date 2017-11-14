@@ -6,11 +6,11 @@ Puzzle, Maze, Open-World, Grid
 ## Platform
 PlayStation 4, Xbox One, Microsoft Windows, Xbox 360, iOS, Android
 ## Game Rating
-metacritic score 
+87 
 ## Publisher
-who released this pile of code
+Thekla Inc., NVIDIA LightSpeed Studios
 ## Developer
-Who made this pile of code
+Thekla Inc.
 ## Publishing Date
 When did they make it?
 # Synopsis
