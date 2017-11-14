@@ -12,7 +12,7 @@ Thekla Inc., NVIDIA LightSpeed Studios
 ## Developer
 Thekla Inc.
 ## Publishing Date
-When did they make it?
+January 26, 2016
 # Synopsis
 Game premise or short one to two sentence overview
 
