@@ -4,7 +4,7 @@ The Witness
 ## Game Type
 Puzzle, Maze, Open-World, Grid
 ## Platform
-What systems do they play on besides the PC master race?
+PlayStation 4, Xbox One, Microsoft Windows, Xbox 360, iOS, Android
 ## Game Rating
 metacritic score 
 ## Publisher
