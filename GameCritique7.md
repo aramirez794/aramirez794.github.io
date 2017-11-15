@@ -19,6 +19,7 @@ island solving maze like puzzles on panels that are scattered throughout the isl
 
 https://aramirez794.github.io/Images/Witness1.jpg
 
+https://aramirez794.github.io/Images/WitnessPuzzle.jpg
 # Game Play Summary
 The player is in First person view and you start the game off in a dark hallway with a 
 door in the distance, once you open the door you'll be revealed with a beautiful vibrant
