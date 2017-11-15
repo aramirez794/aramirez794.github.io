@@ -41,6 +41,9 @@ This game only supports single player.
 
 ### Controls
 
+X/O - Interact
+R2 - MAkes the cursor/ line move faster
+L2 - Sprint
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
