@@ -40,11 +40,14 @@ use the sound of your environments for specific maze puzzles in order to solve t
 This game only supports single player.
 
 ### Controls
-
 X/O - Interact
 R2 - MAkes the cursor/ line move faster
 L2 - Sprint
 # Bugs
-What bugs happened during your critique.
+None.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Still currently playing the game but the overall experience is great and calming with all of the 
+vibrant colors of the low poly models. Being alone on the island raises the question of why you're 
+there and why are you by yourself, I loved the satifaction of figuring out a complex puzzle and in
+case if I would get stuck on a puzzle I could jump simply leave that puzzle and walk to another area 
+of the island and then solve the puzzles from there. Great experience overall.
