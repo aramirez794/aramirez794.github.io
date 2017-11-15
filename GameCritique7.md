@@ -29,7 +29,7 @@ to your surrounding in order to solve a puzzle.
 
 https://aramirez794.github.io/Images/WitnessTrees.jpg
 
-A great example of listening to your environment that I found pretty intersting was when I
+A great example of listening to your environment that I found pretty interesting was when I
 was in a section of the island that had a garden maze and the floor for the garden maze had 
 dirt/rubble so with every step you'd take you could hear your footsteps on the rubble and if 
 you were to walk in the wrong direction of the maze then the noise of the rubble/dirt would
@@ -47,8 +47,11 @@ https://aramirez794.github.io/Images/WitnessKeep.jpg
 This game only supports single player.
 
 ### Controls
+
 X/O - Interact
+
 R2 - MAkes the cursor/ line move faster
+
 L2 - Sprint
 # Bugs
 None.
