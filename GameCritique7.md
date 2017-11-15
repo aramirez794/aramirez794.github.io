@@ -14,7 +14,8 @@ Thekla Inc.
 ## Publishing Date
 January 26, 2016
 # Synopsis
-Game premise or short one to two sentence overview
+First Person 3D puzzle game, the player progresses through each section of the 
+island solving maze like puzzles on panels that are scattered throughout the island.
 
 # Game Play Summary
 ## Playability
