@@ -21,7 +21,10 @@ of the story mode and then I jumped straight to the multiplayer mode and made mo
 the multiplayer mode.
 
 # Game Play Summary
-
+The multiplayer mode that I played mostly in for this game critique is the Conquest mode which is an open 
+world map and the main objective is to capture a specific landmark throughout the map and whichever team 
+has the most landmarks secured wins. There are different classes in battlfield such as Assault, Engineer,
+Recon and Support. If I wanted to get up close and personal then I would choose the Assault class and 
 
 ## Playability
 ### Single/Multiplayer
