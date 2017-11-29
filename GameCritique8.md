@@ -6,13 +6,13 @@ First Person Shooter
 ## Platform
 PlayStation 4, Xbox One, PlayStation 3, Xbox 360, Microsoft Windows
 ## Game Rating
-metacritic score 
+85 
 ## Publisher
-who released this pile of code
+Electronic Arts
 ## Developer
-Who made this pile of code
+EA DICE, DICE Los Angeles
 ## Publishing Date
-When did they make it?
+October 29, 2013
 # Synopsis
 Game premise or short one to two sentence overview
 
