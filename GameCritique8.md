@@ -43,6 +43,29 @@ This game supports Single and Multplayer
 | Move | --- | --- | --- |
 | Sprint | --- | --- | --- |
 | Camera Control | --- | --- | --- |
+| Crouch | --- | --- | --- |
+| Toggle Crouch | --- | --- | --- |
+| Prone | --- | --- | --- |
+| Jump/Vault | --- | --- | --- |
+| Battle Log | --- | --- | --- |
+| Fire Weapon | --- | --- | --- |
+| Aim | --- | --- | --- |
+| Reload | --- | --- | --- |
+| Pick Up Item | --- | --- | --- |
+| Engage/Spot | --- | --- | --- |
+| Tactical Visor | --- | --- | --- |
+| Switch Weapon | --- | --- | --- |
+| Switch Gadget | --- | --- | --- |
+| Throw Grenade | --- | --- | --- |
+| Interact | --- | --- | --- |
+| Accessory | --- | --- | --- |
+| Fire Mode | --- | --- | --- |
+| All Chat | --- | --- | --- |
+| Team Chat | --- | --- | --- |
+| Squad Chat | --- | --- | --- |
+| Game Menu | --- | --- | --- |
+| Scoreboard | --- | --- | --- |
+| Vehicle Slots | --- | --- | --- |
 # Bugs
 There would be times when I would try to sprint right after being proned and my player would sometimes lag. 
 # Final Thoughts
