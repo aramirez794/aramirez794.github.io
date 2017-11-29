@@ -1,10 +1,10 @@
 # Information
 ## Game Title
-Full title of the game.
+Battlefield 4
 ## Game Type
-The genre and play style of the game
+First Person Shooter
 ## Platform
-What systems do they play on besides the PC master race?
+PlayStation 4, Xbox One, PlayStation 3, Xbox 360, Microsoft Windows
 ## Game Rating
 metacritic score 
 ## Publisher
