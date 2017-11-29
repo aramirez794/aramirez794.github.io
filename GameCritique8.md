@@ -38,34 +38,34 @@ the head.
 This game supports Single and Multplayer 
 
 ### Controls
-| # | PC | PS4 | Xbox |
+| # | PC | Xbox | PS4 |
 | --- | --- | --- | --- | 
-| Move | --- | --- | --- |
-| Sprint | --- | --- | --- |
-| Camera Control | --- | --- | --- |
-| Crouch | --- | --- | --- |
-| Toggle Crouch | --- | --- | --- |
-| Prone | --- | --- | --- |
-| Jump/Vault | --- | --- | --- |
-| Battle Log | --- | --- | --- |
-| Fire Weapon | --- | --- | --- |
-| Aim | --- | --- | --- |
-| Reload | --- | --- | --- |
-| Pick Up Item | --- | --- | --- |
-| Engage/Spot | --- | --- | --- |
-| Tactical Visor | --- | --- | --- |
-| Switch Weapon | --- | --- | --- |
-| Switch Gadget | --- | --- | --- |
-| Throw Grenade | --- | --- | --- |
-| Interact | --- | --- | --- |
-| Accessory | --- | --- | --- |
-| Fire Mode | --- | --- | --- |
-| All Chat | --- | --- | --- |
-| Team Chat | --- | --- | --- |
-| Squad Chat | --- | --- | --- |
-| Game Menu | --- | --- | --- |
-| Scoreboard | --- | --- | --- |
-| Vehicle Slots | --- | --- | --- |
+| Move | WASD | Left Stick | Left Stick |
+| Sprint | Left Shift | LS | L3 |
+| Camera Control | Mouse | Right Stick | Right Stick |
+| Crouch | LCTRL | B | Circle |
+| Toggle Crouch | X | B | Circle |
+| Prone | Z | Hold B | Hold Circle |
+| Jump/Vault | Space | A | X |
+| Battle Log | Backspace | Back | Select |
+| Fire Weapon | Left Click | RT | R1 |
+| Aim | Right Click | LT | L1 |
+| Reload | R | X | Square |
+| Pick Up Item | Hold R | Hold Y | Hold Triangle |
+| Engage/Spot | Q | RB | R2 |
+| Tactical Visor | Hold Q | Hold RB | Hold R2 |
+| Switch Weapon | MWHEEL | Y | Triangle |
+| Switch Gadget | 1/2/3/4/5 | Left or Right D-Pad | Left or Right D-Pad |
+| Throw Grenade | G | LB | L2 |
+| Interact | E | X | Square |
+| Accessory | T | Up D-Pad | Up D-Pad |
+| Fire Mode | V | Down D-Pad | Down D-Pad |
+| All Chat | J | --- | --- |
+| Team Chat | K | --- | --- |
+| Squad Chat | L | --- | --- |
+| Game Menu | Esc | Start | Options |
+| Scoreboard | Tab | Hold Start | Hold Start |
+| Vehicle Slots | F1-F6 | A | X |
 # Bugs
 There would be times when I would try to sprint right after being proned and my player would sometimes lag. 
 # Final Thoughts
