@@ -35,6 +35,8 @@ the head.
 
 ## Playability
 ### Single/Multiplayer
+This game supports Single and Multplayer 
+
 ### Controls
 
 # Bugs
