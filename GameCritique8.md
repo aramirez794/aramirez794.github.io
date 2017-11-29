@@ -69,4 +69,9 @@ This game supports Single and Multplayer
 # Bugs
 There would be times when I would try to sprint right after being proned and my player would sometimes lag. 
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+My final thoughts of the game is that I really like how the weapons feel in the game especially when it comes 
+down to sniping since you have to find the distance between your target and yourself and then aiming above the enemies
+head so that the bullet can drop on time within the distance of your enemy. Playing with a squad is much funner than 
+playing by yourself also since you can stratigically flank your enemies and watch each other's back. The story mode
+itself was fun to play but Id rather focus my attention more to the online multiplayer game isntead of the campaign, I
+felt most of the action was better when you played online.
