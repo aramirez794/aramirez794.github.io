@@ -15,9 +15,14 @@ EA DICE, DICE Los Angeles
 October 29, 2013
 # Synopsis
 Battlefield 4 is a Single-player first person shooter and the Campaign takes place during the 
-fictional "War of 2020", six years after the events of Battlefield 3. While Russia is giving China full support in case if a war breaks out with the United States.
+fictional "War of 2020", six years after the events of Battlefield 3. Meanwhile Russia is giving China 
+full support in case if a war breaks out with the United States. I honestly played just about an hour 
+of the story mode and then I jumped straight to the multiplayer mode and made most of my critique from 
+the multiplayer mode.
 
 # Game Play Summary
+
+
 ## Playability
 ### Single/Multiplayer
 ### Controls
