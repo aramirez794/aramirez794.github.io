@@ -40,7 +40,9 @@ This game supports Single and Multplayer
 ### Controls
 | # | PC | PS4 | Xbox |
 | --- | --- | --- | --- | 
-
+| Move | --- | --- | --- |
+| Sprint | --- | --- | --- |
+| Camera Control | --- | --- | --- |
 # Bugs
 There would be times when I would try to sprint right after being proned and my player would sometimes lag. 
 # Final Thoughts
