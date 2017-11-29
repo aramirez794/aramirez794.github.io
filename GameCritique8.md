@@ -24,7 +24,9 @@ the multiplayer mode.
 The multiplayer mode that I played mostly in for this game critique is the Conquest mode which is an open 
 world map and the main objective is to capture a specific landmark throughout the map and whichever team 
 has the most landmarks secured wins. There are different classes in battlfield such as Assault, Engineer,
-Recon and Support. If I wanted to get up close and personal then I would choose the Assault class and 
+Recon and Support. If I wanted to get up close and personal then I would choose the Assault class and have
+a medkit at my side while I played. The cool thing about Battlefield 4 is the destructible environment you 
+can use to your advantage.
 
 ## Playability
 ### Single/Multiplayer
