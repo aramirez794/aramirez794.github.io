@@ -38,8 +38,8 @@ the head.
 This game supports Single and Multplayer 
 
 ### Controls
-
+| PC | PS4 | Xbox |
 # Bugs
-What bugs happened during your critique.
+There would be times when I would try to sprint right after being proned and my player would sometimes lag. 
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
