@@ -14,7 +14,8 @@ EA DICE, DICE Los Angeles
 ## Publishing Date
 October 29, 2013
 # Synopsis
-Game premise or short one to two sentence overview
+Battlefield 4 is a Single-player first person shooter and the Campaign takes place during the 
+fictional "War of 2020", six years after the events of Battlefield 3. While Russia is giving China full support in case if a war breaks out with the United States.
 
 # Game Play Summary
 ## Playability
