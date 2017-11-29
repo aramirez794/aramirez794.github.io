@@ -26,7 +26,12 @@ world map and the main objective is to capture a specific landmark throughout th
 has the most landmarks secured wins. There are different classes in battlfield such as Assault, Engineer,
 Recon and Support. If I wanted to get up close and personal then I would choose the Assault class and have
 a medkit at my side while I played. The cool thing about Battlefield 4 is the destructible environment you 
-can use to your advantage.
+can use to your advantage. 
+
+Bullet drops is the next thing you notice that battlefield has to offer especially when is comes down to the 
+Recon class. After playing a couple of games as a sniper in the Recon class, I'd notice that i would have to 
+always aim above my enemies head from at least 300 yards away, anything closer you could always just aim for 
+the head.
 
 ## Playability
 ### Single/Multiplayer
